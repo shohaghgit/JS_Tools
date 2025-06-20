@@ -1,0 +1,15 @@
+# Shohagh & Jerry's JS_Tools - Tool Summary 📄
+
+1. ShadowXRecon:
+   ↳ All-in-one recon tool with IP lookup, port scan, social tools.
+
+2. ShadowXExploit:
+   ↳ Exploit framework: CVE scanner, brute force, reverse shell generator.
+
+3. JerryOS:
+   ↳ Personal AI-powered Termux OS with emotional support & hacking shortcuts.
+
+4. Ngrok / VPN Addons:
+   ↳ Hidden modules for secure tunneling and privacy defense.
+
+# Update this file whenever you add a new tool 💾
